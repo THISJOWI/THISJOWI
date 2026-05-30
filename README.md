@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pub-9030d6e053cc40b380e0f63662daf8ed.r2.dev/logo.png" alt="THISJOWI" width="150" />
+  <img src="https://pub-9030d6e053cc40b380e0f63662daf8ed.r2.dev/THISJOWI.png" alt="THISJOWI" width="150" />
 </p>
 
 <h1 align="center">THISJOWI</h1>
