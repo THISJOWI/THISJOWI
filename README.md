@@ -194,6 +194,19 @@ Please read our [Contributing Guide](./CONTRIBUTING.md) for more details.
 
 ---
 
+## Other Projects
+
+Explore the rest of the THIS suite:
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [THISCLOUD](https://github.com/THISJOWI/THISCLOUD) | Self-hosted cloud platform — VMs, networks, storage, apps | Rust, Go, Next.js |
+| [THISECURE-CLIENT](https://github.com/THISJOWI/THISECURE-CLIENT) | Secure client app | Dart |
+| [THISECURE-SERVER](https://github.com/THISJOWI/THISECURE-SERVER) | Backend for thisjowi app | Go |
+| [THISCREEN](https://github.com/THISJOWI/THISCREEN) | Screen companion app | Swift |
+
+---
+
 ## License
 
 THISJOWI is released under the [MIT License](./LICENSE).
